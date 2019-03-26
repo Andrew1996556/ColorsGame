@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: cd88396ba433a104fb5df76f7b765138
+timeCreated: 1494251728
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Samba is Dead
+  fontNames:
+  - Samba is Dead
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

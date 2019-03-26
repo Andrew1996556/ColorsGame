@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4aee352e29f7df54e90908ccae35d59a
+timeCreated: 1494256073
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: QuadratSerial
+  fontNames:
+  - QuadratSerial
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
